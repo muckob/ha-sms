@@ -8,6 +8,7 @@
         "resources": [
             "https://raw.githubusercontent.com/ocalvo/ha-sms/master/custom_components/sms/__init__.py",
             "https://raw.githubusercontent.com/ocalvo/ha-sms/master/custom_components/sms/notify.py",
+            "https://raw.githubusercontent.com/ocalvo/ha-sms/master/custom_components/sms/send_sms.sh",
             "https://raw.githubusercontent.com/ocalvo/ha-sms/master/custom_components/sms/manifest.json"
         ]
     }
